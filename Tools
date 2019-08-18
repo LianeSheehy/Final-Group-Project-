@@ -1,0 +1,95 @@
+
+
+Pyhon: 
+
+Python is a general purpose and high level programming language. You can use Python for developing desktop GUI applications, 
+websites and web applications. Also, Python, as a high level programming language, allows you to focus on core functionality 
+of the application by taking care of common programming tasks.
+
+R: R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language 
+and environment which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies) by John Chambers and colleagues. 
+R can be considered as a different implementation of S. There are some important differences, but much code written for S runs
+unaltered under R.
+
+R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis,
+classification, clustering, …) and graphical techniques, and is highly extensible. The S language is often the vehicle of choice
+for research in statistical methodology, and R provides an Open Source route to participation in that activity.
+
+One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical 
+symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, 
+but the user retains full control.
+
+R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code 
+form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
+
+HTML: Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser.
+It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages.
+HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+
+HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms 
+may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics 
+for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written 
+using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> 
+surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the 
+HTML tags, but use them to interpret the content of the page.
+
+HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web 
+pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of 
+the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997
+
+
+Django: Django is an open-source framework for backend web applications based on Python — one of the top web development languages.
+Its main goals are simplicity, flexibility, reliability, and scalability. Django has its own naming system for all functions 
+and components (e.g., HTTP responses are called “views”).
+
+https://djangostars.com/blog/why-we-use-django-framework/
+
+
+Visual Studio: It is used to develop computer programs, as well as websites, web apps, web services and mobile apps. Visual 
+Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, 
+Windows Store and Microsoft Silverlight.
+
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+Microsoft SQL Server Management: SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL 
+infrastructure. Use SSMS to access, configure, manage, administer, and develop all components of SQL Server, Azure SQL 
+Database, and SQL Data Warehouse. SSMS provides a single comprehensive utility that combines a broad group of graphical
+tools with a number of rich script editors to provide access to SQL Server for developers and database administrators 
+of all skill levels.
+
+https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-2017
+
+Microsoft Azure: At its core, Azure is a public cloud computing platform—with solutions including Infrastructure as a
+Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as 
+analytics, virtual computing, storage, networking, and much more.
+
+https://ccbtechnology.com/what-microsoft-azure-is-and-why-it-matters/
+https://www.sumologic.com/brief/what-is-azure/
+https://en.wikipedia.org/wiki/Microsoft_Azure
+
+Github: It provides access control and several collaboration features such as bug tracking, feature requests, task 
+management, and wikis for every project. GitHub offers plans for free, professional, and enterprise accounts. Free 
+GitHub accounts are commonly used to host open source projects.
+
+https://en.wikipedia.org/wiki/GitHub
+
+ZenHub: ZenHub is a beta product that allows us to develop faster, communicate better, and release without 
+overhead by integrating everything within GitHub, the place all our code lives in.
+
+Zenhub is an agile project management tool that is closely integrated with GitHub. In fact, it is so integrated that 
+GiHub issues appear as issues on on the Zenhub project boards and vice versa. We (the JEDI team) are now using ZenHub 
+to manage code development (including sprints), track issues, and promote collaboration.
+
+https://www.zenhub.com/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/
+https://wiki.ucar.edu/display/JEDI/Getting+Started+with+ZenHub
+
+Postman (REST Api): Postman is a powerful tool for performing integration testing with your API. It allows for repeatable, 
+reliable tests that can be automated and used in a variety of environments and includes useful tools for persisting data and 
+simulating how a user might actually be interacting with the system.
+
+https://seesparkbox.com/foundry/api_testing_with_postman
+
+
+
